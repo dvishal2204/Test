@@ -1,5 +1,0 @@
-{{#user}} 
-Name: Vishal 
-Skills: LINUX, AWS, CCNA, DEVOPS, WINDOWS, CATIA, AUTOCAD, PYTHON 
-Email: dvishal2204@gmail.com
-{{/user}
